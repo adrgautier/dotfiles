@@ -1,0 +1,14 @@
+[alias]
+	# short aliases
+	st = status
+	co = checkout
+	ci = commit
+	br = branch
+	lg = log -p
+	ps = push origin head
+	psf = push origin head --force-with-lease
+[user]
+	name = Adrien Gautier
+	email = dev@adrgautier.co
+[core]
+	precomposeUnicode = true
